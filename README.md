@@ -47,7 +47,7 @@ git commit -m "commit-message"
 git push file-origin project-name / local
 ```
 
-### teste ###📸
+### teste 📸
 
 ### 📸 SCREENSHOTS
 <img alt="main menu" src="hours1.PNG"><br><br>
