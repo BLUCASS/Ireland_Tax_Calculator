@@ -11,10 +11,10 @@
 2. [Requirements](#requirements)
 3. [Run the project](#how-to-run-the-project)
 4. [Contribute](#how-to-contribute)
-5. [Screenshots](#SCREENSHOTS)
+5. [Screenshots](#screenshots)
 
 
-### 💻 REQUIREMENTS
+### REQUIREMENTS 💻
 - [Python3](https://docs.python.org/3/)
 - [SQLAlchemy](https://www.sqlalchemy.org)
 - [VisualCode](https://code.visualstudio.com/docs)
