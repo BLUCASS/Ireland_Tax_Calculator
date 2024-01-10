@@ -7,12 +7,11 @@
 
 
 ### ⏭️ TABLE OF CONTENTS
-1. [Description](#📝-description)
-2. [Requirements](#💻-requirements)
-3. [Run the project](#🚀-how-to-run-the-project)
-4. [Contribute](#📫-how-to-contribute)
-5. [Screenshots](###📸-screenshots)
-6. [Teste](#teste📸)
+1. Description
+2. Requirements
+3. Run the project
+4. Contribute
+5. Screenshots
 
 
 ### 💻 REQUIREMENTS
