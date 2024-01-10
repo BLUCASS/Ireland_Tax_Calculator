@@ -20,7 +20,7 @@
 - [VisualCode](https://code.visualstudio.com/docs)
 
 
-### 🚀 HOW TO RUN THE PROJECT
+### HOW TO RUN THE PROJECT 🚀
 ```bash
 You will download the controller.py, model.py and the view.py.
 
