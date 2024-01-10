@@ -11,8 +11,7 @@
 2. [Requirements](#💻-requirements)
 3. [Run the project](#🚀-how-to-run-the-project)
 4. [Contribute](#📫-how-to-contribute)
-5. [Screenshots](#📸-screenshots)
-6. [Teste](#teste)
+5. [Screenshots](###📸-screenshots)
 
 
 ### 💻 REQUIREMENTS
