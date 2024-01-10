@@ -7,20 +7,20 @@
 
 
 ### ⏭️ TABLE OF CONTENTS
-1. [Description](#description)
-2. [Requirements](#requirements)
-3. [Run the project](#how-to-run-the-project)
-4. [Contribute](#how-to-contribute)
-5. [Screenshots](#screenshots)
+1. [Description](#📝-description)
+2. [Requirements](#💻-requirements)
+3. [Run the project](#🚀-how-to-run-the-project)
+4. [Contribute](#📫-how-to-contribute)
+5. [Screenshots](#📸-screenshots)
 
 
-### REQUIREMENTS 💻
+### 💻 REQUIREMENTS
 - [Python3](https://docs.python.org/3/)
 - [SQLAlchemy](https://www.sqlalchemy.org)
 - [VisualCode](https://code.visualstudio.com/docs)
 
 
-### HOW TO RUN THE PROJECT 🚀
+### 🚀 HOW TO RUN THE PROJECT
 ```bash
 You will download the controller.py, model.py and the view.py.
 
