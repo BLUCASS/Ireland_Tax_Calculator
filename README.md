@@ -12,6 +12,7 @@
 3. [Run the project](#🚀-how-to-run-the-project)
 4. [Contribute](#📫-how-to-contribute)
 5. [Screenshots](###📸-screenshots)
+6. [Teste](###teste)
 
 
 ### 💻 REQUIREMENTS
@@ -46,7 +47,7 @@ git commit -m "commit-message"
 git push file-origin project-name / local
 ```
 
-# teste
+### teste
 
 ### 📸 SCREENSHOTS
 <img alt="main menu" src="hours1.PNG"><br><br>
