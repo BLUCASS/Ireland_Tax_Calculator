@@ -13,7 +13,6 @@
 4. Contribute
 5. Screenshots
 
-
 ### 💻 REQUIREMENTS
 - [Python3](https://docs.python.org/3/)
 - [SQLAlchemy](https://www.sqlalchemy.org)
@@ -45,8 +44,6 @@ git commit -m "commit-message"
 # Send them to the original branch:
 git push file-origin project-name / local
 ```
-
-### teste📸
 
 ### 📸 SCREENSHOTS
 <img alt="main menu" src="hours1.PNG"><br><br>
