@@ -6,7 +6,7 @@
 <br>Overall, the program is a useful tool for taxpayers who need to calculate and track their payroll tax in the Irish tax system</p>
 
 
-### ⏭️ TABLE OF CONTENTS
+### ⏭️ SUMMARY
 1. Description
 2. Requirements
 3. Run the project
