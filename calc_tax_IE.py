@@ -95,6 +95,7 @@ class IrelandTax:
         relief = (1875 + 1875) / 52
         percent = (self.__salary * 20) / 100
         itp = percent - relief
+        if percent < 72.12: return 0
         show = str(input('Do you want to see the detailed INCOME TAX PAID [Y/N]? ')).upper().strip()[0]
         if show == 'Y':
             print(f'\033[44m{"DESCRIPTION OF THE FEES":^50}\033[m')
@@ -104,8 +105,7 @@ class IrelandTax:
             print(f'\n{"Total Tax Credit Relief":<36}{"€ 3,750":<9}year\n{"":<36}{"€ 72.12":<9}week')
             print(f'\nTo calculate:\nTax = (20% of the income under 42000) - relief')
             print(f'\n\033[32mYour taxable amount € {itp:.2f}\033[m')
-        if percent > 72.12: return itp
-        else: return 0
+        return itp
 
     def show_payroll(self, gross_salary=0, prsi=0, usc=0, itp=0) -> None:
         from datetime import datetime
