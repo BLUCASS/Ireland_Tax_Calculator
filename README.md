@@ -6,12 +6,13 @@
 <br>Overall, the program is a useful tool for taxpayers who need to calculate and track their payroll tax in the Irish tax system</p>
 
 
-### ⏭️ SUMMARY
+### ⏭️ TABLE OF CONTENTS
 1. Description
 2. Requirements
 3. Run the project
 4. Contribute
 5. Screenshots
+6. Terms of use
 
 ### 💻 REQUIREMENTS
 - [Python3](https://docs.python.org/3/)
@@ -46,6 +47,17 @@ git push file-origin project-name / local
 ```
 
 ### 📸 SCREENSHOTS
-<img alt="main menu" src="hours1.PNG"><br><br>
-<img alt="input hours" src="hours2.PNG"><br><br>
-<img alt="printing database" src="hours3.PNG">
+<img alt="input salary" src="tax1.PNG"><br>
+<img alt="payroll" src="tax2.PNG"><br>
+<img alt="detailed fees" src="tax3.PNG"><br>
+<img alt="only the payroll" src="tax4.PNG">
+
+
+### TERMS OF USE
+
+1. This program is for educational purposes only.
+2. It uses your personal information only for calculations.
+3. The information comes from https://www.citizensinformation.ie/en/ and https://www.revenue.ie/en/home.aspx.
+4. We are not responsible for decisions made based on this program.
+5. For more accurate information, visit citizensinformation and revenue.ie.
+##### By using this program, you agree to these terms.
