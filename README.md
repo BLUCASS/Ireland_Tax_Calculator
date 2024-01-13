@@ -21,8 +21,7 @@
 
 ### 🚀 HOW TO RUN THE PROJECT
 ```bash
-You will download the calc_tax_IE.py file.
-Run the script. It will create the database automatically.
+You will download and run the calc_tax_IE.py file.
 ```
 
 
